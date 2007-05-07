@@ -1,5 +1,5 @@
 %define name	bibtex2html
-%define version 1.85
+%define version 1.86
 %define release %mkrel 1
 
 Name:		%{name}
