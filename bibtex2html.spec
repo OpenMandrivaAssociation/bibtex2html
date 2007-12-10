@@ -1,10 +1,10 @@
 %define name	bibtex2html
 %define version 1.88
-%define release %mkrel 1
+%define rel %mkrel 2
 
 Name:		%{name}
 Version:	%{version}
-Release:	%mkrel %{release}
+Release:	%mkrel %{rel}
 Summary:	A Tool for translating from BibTeX to HTML
 Group:		Publishing
 License:	GPL
