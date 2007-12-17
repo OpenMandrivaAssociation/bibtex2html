@@ -14,7 +14,6 @@ BuildRequires:	ocaml
 BuildRequires:	hevea
 BuildRequires:	tetex-latex
 BuildRequires:	tetex-dvips
-BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
 bibtex2html is a collection of tools for translating from BibTeX to
