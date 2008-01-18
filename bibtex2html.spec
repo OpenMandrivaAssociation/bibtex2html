@@ -1,15 +1,14 @@
 %define name	bibtex2html
-%define version 1.88
-%define rel	2
+%define version 1.89
 
 Name:		%{name}
 Version:	%{version}
-Release:	%mkrel %{rel}
+Release:	%mkrel 1
 Summary:	A Tool for translating from BibTeX to HTML
 Group:		Publishing
 License:	GPL
 URL:		http://www.lri.fr/~filliatr/bibtex2html
-Source:		http://www.lri.fr/~filliatr/ftp/bibtex2html/%{name}-%{version}.tar.bz2
+Source:		http://www.lri.fr/~filliatr/ftp/bibtex2html/%{name}-%{version}.tar.gz
 BuildRequires:	ocaml
 BuildRequires:	hevea
 BuildRequires:	tetex-latex
