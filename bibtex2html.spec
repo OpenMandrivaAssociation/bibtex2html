@@ -1,12 +1,12 @@
 %define name	bibtex2html
-%define version 1.89
+%define version 1.90
 
 Name:		%{name}
 Version:	%{version}
 Release:	%mkrel 1
 Summary:	A Tool for translating from BibTeX to HTML
 Group:		Publishing
-License:	GPL
+License:	GPLv2
 URL:		http://www.lri.fr/~filliatr/bibtex2html
 Source:		http://www.lri.fr/~filliatr/ftp/bibtex2html/%{name}-%{version}.tar.gz
 BuildRequires:	ocaml
@@ -48,7 +48,7 @@ rm -rf %{buildroot}
 
 %files
 %defattr(-,root,root)
-%doc CHANGES COPYING GPL README manual.ps manual.html
+%doc CHANGES COPYING README manual.ps manual.html
 %{_bindir}/*
 %{_mandir}/man1/*
 
