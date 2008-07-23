@@ -3,7 +3,7 @@
 
 Name:		%{name}
 Version:	%{version}
-Release:	%mkrel 1
+Release:	%mkrel 3
 Summary:	A Tool for translating from BibTeX to HTML
 Group:		Publishing
 License:	GPLv2
