@@ -1,5 +1,5 @@
 %define name	bibtex2html
-%define version 1.92
+%define version 1.94
 
 Name:		%{name}
 Version:	%{version}
