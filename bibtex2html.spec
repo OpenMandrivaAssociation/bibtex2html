@@ -1,5 +1,5 @@
 %define name	bibtex2html
-%define version 1.94
+%define version 1.95
 
 Name:		%{name}
 Version:	%{version}
@@ -50,7 +50,7 @@ features:
 
 %files
 %defattr(-,root,root)
-%doc CHANGES COPYING README manual.ps manual.html
+%doc CHANGES COPYING README manual.pdf manual.html
 %{_bindir}/*
 %{_mandir}/man1/*
 
