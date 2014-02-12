@@ -14,6 +14,7 @@ BuildRequires:	hevea
 BuildRequires:	tetex-latex
 BuildRequires:	tetex-dvips
 BuildRequires:	tetex-cmsuper
+BuildRequires:	texlive
 
 %description
 bibtex2html is a collection of tools for translating bibliographies
