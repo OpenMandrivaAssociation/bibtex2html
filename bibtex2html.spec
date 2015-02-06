@@ -4,7 +4,7 @@
 Summary:	A Tool for translating from BibTeX to HTML
 Name:		bibtex2html
 Version:	1.97
-Release:	1
+Release:	2
 License:	GPLv2+
 Group:		Publishing
 Url:		http://www.lri.fr/~filliatr/bibtex2html
