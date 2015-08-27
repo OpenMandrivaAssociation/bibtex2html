@@ -3,8 +3,8 @@
 
 Summary:	A Tool for translating from BibTeX to HTML
 Name:		bibtex2html
-Version:	1.97
-Release:	2
+Version:	1.98
+Release:	1
 License:	GPLv2+
 Group:		Publishing
 Url:		http://www.lri.fr/~filliatr/bibtex2html
@@ -52,4 +52,3 @@ install -d -m 755 %{buildroot}%{_bindir}
 install -d -m 755 %{buildroot}%{_mandir}/man1
 install -m 755 aux2bib bib2bib bibtex2html %{buildroot}%{_bindir}
 install -m 644 aux2bib.1 bib2bib.1 bibtex2html.1 %{buildroot}%{_mandir}/man1
-

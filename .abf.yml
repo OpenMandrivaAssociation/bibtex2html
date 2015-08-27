@@ -1,2 +1,4 @@
-sources:
+removed_sources:
   bibtex2html-1.97.tar.gz: 970cb972eb88ff4cd01f247c0d8a6b821473f243
+sources:
+  bibtex2html-1.98.tar.gz: daaa082885a30dae38263614565298d4862b8331
