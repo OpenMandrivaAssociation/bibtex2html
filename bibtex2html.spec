@@ -7,7 +7,7 @@ Version:	1.99
 Release:	1
 License:	GPLv2+
 Group:		Publishing
-Url:		http://www.lri.fr/~filliatr/bibtex2html
+Url:		https://www.lri.fr/~filliatr/bibtex2html
 Source0:	http://www.lri.fr/~filliatr/ftp/bibtex2html/%{name}-%{version}.tar.gz
 BuildRequires:	ocaml
 BuildRequires:	hevea
