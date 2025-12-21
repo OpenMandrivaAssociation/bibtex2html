@@ -9,6 +9,11 @@ License:	GPLv2+
 Group:		Publishing
 Url:		https://www.lri.fr/~filliatr/bibtex2html
 Source0:	http://www.lri.fr/~filliatr/ftp/bibtex2html/%{name}-%{version}.tar.gz
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	ocaml
 BuildRequires:	hevea
 BuildRequires:	tetex-latex
